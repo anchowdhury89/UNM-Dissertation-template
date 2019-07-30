@@ -185,6 +185,7 @@
 \def\degreeterm#1{\gdef\@degreeterm{#1}}
 \def\defensedate#1{\gdef\@defensedate{#1}}
 \def\degree#1{\gdef\@degree{#1}}
+\def\degreeabbrv#1{\gdef\@degreeabbrv{#1}}
 \def\department#1{\gdef\@department{#1}}
 \def\field#1{\gdef\@field{#1}}
 \def\university#1{\gdef\@university{#1}}
@@ -381,7 +382,7 @@
 	\theauthor}\\
 	\vspace{15pt}
 	\@previousdegrees \\
-	Ph.D., \@field, The University of New Mexico, \@degreeyear
+	\@degreeabbrv, \@field, The University of New Mexico, \@degreeyear
 	\vspace{50pt}\\
 	 {\huge Abstract}
 	\end{center}
