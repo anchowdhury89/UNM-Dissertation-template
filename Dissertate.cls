@@ -381,7 +381,7 @@
 	\theauthor}\\
 	\vspace{15pt}
 	\@previousdegrees \\
-	\@degree, \@department, \@degreeyear
+	Ph.D., \@department, \@degreeyear
 	\vspace{50pt}\\
 	 {\huge Abstract}
 	\end{center}
