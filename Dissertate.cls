@@ -381,7 +381,7 @@
 	\theauthor}\\
 	\vspace{15pt}
 	\@previousdegrees \\
-	Ph.D., \@department, \@degreeyear
+	Ph.D., \@field, The University of New Mexico, \@degreeyear
 	\vspace{50pt}\\
 	 {\huge Abstract}
 	\end{center}
